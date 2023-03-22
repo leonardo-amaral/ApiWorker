@@ -1,0 +1,20 @@
+{
+  "name": "apiworker",
+  "version": "1.0.0",
+  "description": "Util function for API requests...",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardo-amaral/apiworker.git"
+  },
+  "keywords": ["API", "API CALLS", "REQUEST", "API REQUESTS", "API REST", "POST", "GET", "PUT", "DELETE", "CRUD"],
+  "author": "leonardo-amaral, ylost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardo-amaral/apiworker/issues"
+  },
+  "homepage": "https://github.com/leonardo-amaral/apiworker#readme"
+}
