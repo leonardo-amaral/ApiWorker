@@ -10,7 +10,9 @@ If you need declare more headers, exist extraHeaders props...
 
 ```shell
 npm i apiWorker
-      or
+```
+or
+```shel
 yarn add apiWorker
 ```
 
